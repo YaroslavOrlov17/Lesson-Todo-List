@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "todo": "Buy groceries",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "todo": "Clean the house",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "todo": "Finish React project",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "todo": "Read a book",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "todo": "Workout",
+    "completed": true
+  }
+]
